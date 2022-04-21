@@ -1,27 +1,27 @@
 //parte 1
-var intUno = 142;
-console.log( intUno );
+var cientoCuarentaYDos = 142;
+console.log( cientoCuarentaYDos );
 
-var intDos = 284;
-console.log( intDos );
+var doscientosOchentaYYcuatro = 284;
+console.log( doscientosOchentaYYcuatro );
 
-var floatUno= 3.14;
-console.log( floatUno );
+var numeroPi= 3.14;
+console.log( numeroPi );
 
-var floatDos = 0.75;
-console.log( floatDos );
+var unCuarto = 0.75;
+console.log( unCuarto );
 
-var stringUno = "grande de fugazzeta";
-console.log( stringUno );
+var almuerzoDeseado = "grande de fugazzeta";
+console.log( almuerzoDeseado );
 
-var stringDos = "cafe";
-console.log( stringDos );
+var estimulante = "cafe";
+console.log( estimulante );
  
-var booleanUno = false;
-console.log( booleanUno );
+var hoyLlueve = false;
+console.log( hoyLlueve );
 
-var booleanDos = true;
-console.log( booleanDos );
+var estaSoleado = true;
+console.log( estaSoleado );
 //parte 1 finalizada crear variables e imprimilas
 
 
@@ -29,14 +29,14 @@ console.log( booleanDos );
 
 document.write(`
 
-<h2> entero uno: ${ intUno } </h2>
-<h2> entero dos: ${ intDos } </h2>
-<h2> float uno: ${ floatUno } </h2>
-<h2> float dos: ${ floatDos } </h2>
-<h2> string uno: ${ stringUno } </h2>
-<h2> string dos: ${ stringDos } </h2>
-<h2> boolean uno: ${ booleanUno } </h2>
-<h2> boolean dos: ${ booleanDos } </h2>
+<h2> entero uno: ${ cientoCuarentaYDos } </h2>
+<h2> entero dos: ${ doscientosOchentaYYcuatro } </h2>
+<h2> float uno: ${ numeroPi } </h2>
+<h2> float dos: ${ unCuarto } </h2>
+<h2> string uno: ${ almuerzoDeseado } </h2>
+<h2> string dos: ${ estimulante } </h2>
+<h2> boolean uno: ${ hoyLlueve } </h2>
+<h2> boolean dos: ${ estaSoleado } </h2>
 
 
 
