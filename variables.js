@@ -1,20 +1,20 @@
 //parte 1
-var cientoCuarentaYDos = 142;
-console.log( cientoCuarentaYDos );
+var precioKiloTomate = 300;
+console.log( precioKiloTomate );
 
-var doscientosOchentaYYcuatro = 284;
-console.log( doscientosOchentaYYcuatro );
+var totalFosforosEnCaja = 284;
+console.log( totalFosforosEnCaja );
 
 var numeroPi= 3.14;
 console.log( numeroPi );
 
-var unCuarto = 0.75;
-console.log( unCuarto );
+var laCuartaParteDeUno = 0.25;
+console.log( laCuartaParteDeUno );
 
 var almuerzoDeseado = "grande de fugazzeta";
 console.log( almuerzoDeseado );
 
-var estimulante = "cafe";
+var bebidaEstimulante = "cafe";
 console.log( estimulante );
  
 var hoyLlueve = false;
