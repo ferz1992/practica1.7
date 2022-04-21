@@ -15,7 +15,7 @@ var almuerzoDeseado = "grande de fugazzeta";
 console.log( almuerzoDeseado );
 
 var bebidaEstimulante = "cafe";
-console.log( estimulante );
+console.log( bebidaEstimulante );
  
 var hoyLlueve = false;
 console.log( hoyLlueve );
@@ -29,12 +29,12 @@ console.log( estaSoleado );
 
 document.write(`
 
-<h2> entero uno: ${ cientoCuarentaYDos } </h2>
-<h2> entero dos: ${ doscientosOchentaYYcuatro } </h2>
+<h2> entero uno: ${ precioKiloTomate } </h2>
+<h2> entero dos: ${ totalFosforosEnCaja } </h2>
 <h2> float uno: ${ numeroPi } </h2>
-<h2> float dos: ${ unCuarto } </h2>
+<h2> float dos: ${ laCuartaParteDeUno } </h2>
 <h2> string uno: ${ almuerzoDeseado } </h2>
-<h2> string dos: ${ estimulante } </h2>
+<h2> string dos: ${ bebidaEstimulante } </h2>
 <h2> boolean uno: ${ hoyLlueve } </h2>
 <h2> boolean dos: ${ estaSoleado } </h2>
 
